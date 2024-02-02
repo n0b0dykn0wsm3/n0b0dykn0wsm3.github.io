@@ -14,6 +14,69 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
+
+## Cheatsheet
+
+[HTB Academy](/cheatsheet/htbacademy.md)
+
+## Red Team
+[Pentesting Methodology](-)
+
+[Vulnerability Assessment](-)
+
+
+
+## Blue Team
+
+
+
+## Tools
+### Red Team Tools
+### Blue Team Tools
+
+
+## Write Up
+* Vulnhub
+* HTB / HTB Academy
+* Try Hack Me
+* Blabla
+
+# Penetration Testing Methodology
+
+## PTES
+The Penetration Testing Execution Standard ([PTES](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines))  can be applied to all types of penetration tests. It outlines the  phases of a penetration test and how they should be conducted. These are  the sections in the PTES:
+1. Pre-engagement Interactions
+2. Intelligence Gathering
+3. Threat Modeling
+4. Vulnerability Analysis
+5. Exploitation
+6. Post Exploitation
+7. Reporting
+
+## OSSTMM
+[OSSTMM](https://www.isecom.org/OSSTMM.3.pdf) is the Open Source Security Testing Methodology Manual, another set of guidelines pentesters can use to ensure they're doing  their jobs properly. It can be used alongside other pentest standards.
+OSSTMM is divided into five different channels for five different areas of pentesting:
+1. Human Security (human beings are subject to social engineering exploits)
+2. Physical Security
+3. Wireless Communications (including but not limited to technologies like WiFi and Bluetooth)
+4. Telecommunications
+5. Data Networks
+
+## NIST
+The [NIST](https://www.nist.gov/cyberframework) (National Institute of Standards and Technology) is well known for their NIST Cybersecurity Framework,  a system for designing incident response policies and procedures. NIST  also has a Penetration Testing Framework. The phases of the NIST  framework include:
+1. Planning
+1. Discovery
+1. Attack
+1. Reporting
+
+## OWASP 
+[OWASP](https://owasp.org) stands for the Open Web Application Security Project. They're typically the go-to organization for defining testing standards and classifying risks to web applications.
+OWASP maintains a few different standards and helpful guides for assessment various technologies:
+1. [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) (WSTG)
+2. [Mobile Security Testing Guide](https://owasp.org/www-project-mobile-app-security/) (MSTG)
+3. [Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
+
+
 ## Headings by default:
 
 # H1 For example
