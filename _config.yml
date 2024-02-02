@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: 0xd4y
+title: Ness
 logo: /images/0xd4y-logo-gray-small-centered.png # You can add own logo. For example '/images/logo.png'.
 description: Cybersecurity reports and videos.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -11,22 +11,22 @@ excerpt_separator: ""
 #-------------------------------
 # Author Settings
 author:
-  name: 0xd4y
+  name: n0b0dykn0wsm3
   avatar: '/images/beach_chess_smaller.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: 0xd4y
-  description: Penetration Tester | Red Teamer | Global Top 0.1% at TryHackMe and HackTheBox
+  title: n0b0dykn0wsm3
+  description: Penetration Tester | Red Teamer | Write up
   image: '/images/cool_windows_terminal.jpg'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: 0xd4yWriteups@gmail.com # Add your email for contact form
+  email: tioorahmadi@gmail.com # Add your email for contact form
   description: I hope you find my writeups instructive! If you have any suggestions or comments, please feel free to contact me.
 
 # NOTE
@@ -38,9 +38,8 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@0xd4y"}
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/segev-eliezer"}
-- {icon: "ion-logo-github", link: "https://github.com/0xd4y"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/tio-rahmadi-for20"}
+- {icon: "ion-logo-github", link: "https://github.com/n0b0dykn0wsm3"}
 
 
 #-------------------------------
