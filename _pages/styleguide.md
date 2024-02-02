@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: Resources
 permalink: /styleguide/
 image: '/images/50.jpg'
 ---
@@ -14,9 +14,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-## Headings by default:
+## Testing
 
-# H1 For example
+# Cheatsheet
 ## H2 For example
 ### H3 For example
 #### H4 For example
