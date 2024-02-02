@@ -1190,7 +1190,7 @@ N/A
 | `netstat -antb \|findstr 1080`                                 | Windows-based command used to list TCP network connections listening on port 1080. |
 
 ### 21. Active Directory Enumeration & Attacks
-{% raw %}
+
 #### Initial Enumeration 
 
 | Command                                                      | Description                                                  |
@@ -1205,8 +1205,8 @@ N/A
 | `sudo make all`                                              | Used to compile a `Kerbrute` binary for multiple OS platforms and CPU architectures. |
 | `./kerbrute_linux_amd64`                                     | Used to test the chosen complied `Kebrute` binary from a Linux-based host. |
 | `sudo mv kerbrute_linux_amd64 /usr/local/bin/kerbrute`       | Used to move the `Kerbrute` binary to a directory can be set to be in a Linux user's path. Making it easier to use the tool. |
-| `./kerbrute_linux_amd64 userenum -d INLANEFREIGHT.LOCAL --dc 172.16.5.5 jsmith.txt -o kerb-results` | Runs the Kerbrute tool to discover usernames in the domain (`INLANEFREIGHT.LOCAL`) specified proceeding the `-d` option and the associated domain controller specified proceeding `--dc`using a wordlist and outputs (`-o`) the results to a specified file. Performed from a Linux-based host. |
-{% endraw %}
+| `./kerbrute_linux_amd64 userenum -d INLANEFREIGHT.LOCAL --dc 172.16.5.5 jsmith.txt -o kerb-results` | Runs the Kerbrute tool to discover usernames in the domain (`INLANEFREIGHT.LOCAL`) |
+
 #### LLMNR/NTB-NS Poisoning 
 
 | Command                                                      | Description                                                  |
