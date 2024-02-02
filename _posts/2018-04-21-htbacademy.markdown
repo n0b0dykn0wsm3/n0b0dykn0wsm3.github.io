@@ -1,3 +1,12 @@
+---
+layout: post
+title:  htbacademy
+description: Watch and Learn
+date:   2018-04-21 15:01:35 +0300
+image:  '/images/20.jpg'
+tags:   [Lifestyle, Rest, Nature]
+---
+
 # Table of Contents
 
 - [Introduction](#introduction)
@@ -38,7 +47,7 @@
 
 
 <a id="introduction"></a>
-# Introduction
+# HTB Academy Cheatsheet
 
 <a id="1-penetration-testing-process"></a>
 ## 1. Penetration Testing Processes
