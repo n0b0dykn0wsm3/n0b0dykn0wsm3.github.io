@@ -9,11 +9,6 @@ tags:   [Lifestyle, Rest, Nature]
 
 # HTB | Academy
 
-Tags: 
-Related to: [[TEMPLATES]]
-See also: 
-Previous: 
-
 ## Description
 
 HTB Academy is an effort to gather everything we have learned over the years, meet our community’s needs and create a “University for Hackers”, where our users can learn step by step the cybersecurity theory and get ready for the training playground of HTB, our labs.
