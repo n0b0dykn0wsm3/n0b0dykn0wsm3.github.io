@@ -11,3 +11,31 @@ Here are some of the videos that I posted on my <a href="https://www.youtube.com
 
 ## Latest Video
 <iframe src="https://www.youtube.com/embed?listType=playlist&list=UULFSumP9z5Rzquqih-jpusTOQ&index=1" frameborder="0" allowfullscreen></iframe><br>
+
+# Resource
+
+## Cheatsheet
+
+[HTB Academy](/cheatsheet/htbacademy.md)
+
+## Red Team
+[Pentesting Methodology](-)
+
+[Vulnerability Assessment](-)
+
+
+
+## Blue Team
+
+
+
+## Tools
+### Red Team Tools
+### Blue Team Tools
+
+
+## Write Up
+* Vulnhub
+* HTB / HTB Academy
+* Try Hack Me
+* Blabla
