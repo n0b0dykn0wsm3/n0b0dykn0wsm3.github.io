@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources 
-permalink: /videos/
+permalink: /resources/
 image: '/images/youtube_banner.png'
 ---
 
