@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: N1
+title: N11
 logo: /images/0xd4y-logo-gray-small-centered.png # You can add own logo. For example '/images/logo.png'.
 description: Cybersecurity method, write up, and reports.
 baseurl: "" # The subpath of your site, e.g. /blog
