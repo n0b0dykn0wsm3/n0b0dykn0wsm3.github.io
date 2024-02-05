@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Penetration Testing Methodology
+title:  HTB Academy Notes
 description: Watch and Learn
 date:   2024-02-05 15:01:35 +0300
 image:  '/images/20.jpg'
-tags:   [Lifestyle, Rest, Nature]
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
 ---
 
 # Table of Contents
