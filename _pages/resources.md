@@ -16,7 +16,7 @@ Here are some of the videos that I posted on my <a href="https://www.youtube.com
 
 ## Cheatsheet
 
-[HTB Academy](/2024/02/05/htbacademy/)
+[HTB Academy](/2024/01/01/htbacademy/)
 
 ## Red Team
 [Pentesting Methodology](/2018/04/21/pentest-method/)
