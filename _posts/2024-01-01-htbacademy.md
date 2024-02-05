@@ -2,7 +2,7 @@
 layout: post
 title:  HTB Academy Notes
 description: Watch and Learn
-date:   2024-02-05 15:01:35 +0300
+date:   2024-01-01 15:01:35 +0700
 image:  '/images/20.jpg'
 tags:   [Penetration Tester, Red Team, Cheatsheet ]
 ---
