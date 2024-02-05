@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Videos 
+title: Resources 
 permalink: /videos/
 image: '/images/youtube_banner.png'
 ---
@@ -16,7 +16,7 @@ Here are some of the videos that I posted on my <a href="https://www.youtube.com
 
 ## Cheatsheet
 
-[HTB Academy](/cheatsheet/htbacademy.md)
+[HTB Academy](/2024/02/05/htbacademy/)
 
 ## Red Team
 [Pentesting Methodology](/2018/04/21/pentest-method/)
