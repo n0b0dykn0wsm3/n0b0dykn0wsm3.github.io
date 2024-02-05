@@ -838,12 +838,6 @@ N#A
 <a id="13-active-directory-enumeration--attacks"></a>
 ### 13. Active Directory Enumeration & Attacks
 
-#### Initial Enumeration 
-
-#### LLMNR/NTB-NS Poisoning
-
-#### Password Spraying & Password Policies
-
 | Command                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | `#!/bin/bash  for x in {{A..Z},{0..9}}{{A..Z},{0..9}}{{A..Z},{0..9}}{{A..Z},{0..9}}     do echo $x; done` | Bash script used to generate `16,079,616` possible username combinations from a Linux-based host. |
