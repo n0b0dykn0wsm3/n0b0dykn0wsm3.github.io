@@ -230,8 +230,6 @@ Metasploit:
 
 
 #### Host-based Enumeration
-
-
 ##### FTP
 |**Command**|**Description**|
 |-|-|
