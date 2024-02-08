@@ -5,7 +5,7 @@ permalink: /resources/
 image: '/images/youtube_banner.png'
 ---
 
-In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, and Write Up)
+In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, and Write Up).
 **You can search for videos and writeups by using the search feature located at the top right of the webpage.**
 
 ## Latest Video
