@@ -5,8 +5,7 @@ permalink: /resources/
 image: '/images/youtube_banner.png'
 ---
 
-Here are some of the videos that I posted on my <a href="https://www.youtube.com/channel/UCSumP9z5Rzquqih-jpusTOQ">YouTube channel</a>. They range from external and internal penetration testing, to cloud and web application penetration tests. 
-
+In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, and Write Up)
 **You can search for videos and writeups by using the search feature located at the top right of the webpage.**
 
 ## Latest Video
@@ -19,11 +18,11 @@ Here are some of the videos that I posted on my <a href="https://www.youtube.com
 [HTB Academy](/2024/01/01/htbacademy/)
 
 ## Red Team
+[Red Teaming](-)
+
 [Pentesting Methodology](/2018/04/21/pentest-method/)
 
 [Vulnerability Assessment](-)
-
-
 
 ## Blue Team
 
