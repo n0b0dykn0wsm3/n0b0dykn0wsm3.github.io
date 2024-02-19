@@ -1,0 +1,77 @@
+---
+layout: post
+title:  HTB Academy Notes
+description: Watch and Learn
+date:   2023-08-01 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Summary
+
+Information  Gathering is process to
+
+
+## Table of Contents
+
+- [WSTG-INFO-1: Introduction](#wstg-info-1-introduction)
+- [WSTG-INFO-2: Architecture Overview](#wstg-info-2-architecture-overview)
+- [WSTG-INFO-3: Key Components](#wstg-info-3-key-components)
+- [WSTG-INFO-4: Technologies Used](#wstg-info-4-technologies-used)
+- [WSTG-INFO-5: Data Flow Diagram](#wstg-info-5-data-flow-diagram)
+- [WSTG-INFO-6: Authentication Mechanisms](#wstg-info-6-authentication-mechanisms)
+- [WSTG-INFO-7: Authorization Schemes](#wstg-info-7-authorization-schemes)
+- [WSTG-INFO-8: Data Validation Mechanisms](#wstg-info-8-data-validation-mechanisms)
+- [WSTG-INFO-9: Session Management](#wstg-info-9-session-management)
+- [WSTG-INFO-10: Error Handling and Logging](#wstg-info-10-error-handling-and-logging)
+
+## <a id="wstg-info-1-introduction"></a>WSTG-INFO-1: Information Gathering
+
+### Test Objectives
+- Identify what sensitive design and configuration information of the application, system, or organization is exposed directly (on the organization's site) or indirectly (via third-party services).
+
+### How To test
+Use a search engine to search for potentially sensitive information. This may include:
+- network diagrams and configurations;
+- archived posts and emails by administrators or other key staff;
+- logon procedures and username formats;
+- usernames, passwords, and private keys;
+- third-party, or cloud service configuration files;
+- revealing error message content; and
+- non-public applications (development, test, User Acceptance Testing (UAT), and staging versions of sites).
+
+## <a id="wstg-info-2-architecture-overview"></a>WSTG-INFO-2: Architecture Overview
+
+<!-- Your content for WSTG-INFO-2 goes here -->
+
+## <a id="wstg-info-3-key-components"></a>WSTG-INFO-3: Key Components
+
+<!-- Your content for WSTG-INFO-3 goes here -->
+
+## <a id="wstg-info-4-technologies-used"></a>WSTG-INFO-4: Technologies Used
+
+<!-- Your content for WSTG-INFO-4 goes here -->
+
+## <a id="wstg-info-5-data-flow-diagram"></a>WSTG-INFO-5: Data Flow Diagram
+
+<!-- Your content for WSTG-INFO-5 goes here -->
+
+## <a id="wstg-info-6-authentication-mechanisms"></a>WSTG-INFO-6: Authentication Mechanisms
+
+<!-- Your content for WSTG-INFO-6 goes here -->
+
+## <a id="wstg-info-7-authorization-schemes"></a>WSTG-INFO-7: Authorization Schemes
+
+<!-- Your content for WSTG-INFO-7 goes here -->
+
+## <a id="wstg-info-8-data-validation-mechanisms"></a>WSTG-INFO-8: Data Validation Mechanisms
+
+<!-- Your content for WSTG-INFO-8 goes here -->
+
+## <a id="wstg-info-9-session-management"></a>WSTG-INFO-9: Session Management
+
+<!-- Your content for WSTG-INFO-9 goes here -->
+
+## <a id="wstg-info-10-error-handling-and-logging"></a>WSTG-INFO-10: Error Handling and Logging
+
+<!-- Your content for WSTG-INFO-10 goes here -->
