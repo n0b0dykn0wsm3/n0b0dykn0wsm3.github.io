@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-ERRH
+date:   2023-08-07 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Error Handling Testing
+
+- [WSTG-ERRH-01: Testing for Improper Error Handling](#wstg-errh-01-testing-for-improper-error-handling)
+- [WSTG-ERRH-02: Testing for Stack Traces](#wstg-errh-02-testing-for-stack-traces)
+
+## WSTG-ERRH-01: Testing for Improper Error Handling <a id="wstg-errh-01-testing-for-improper-error-handling"></a>
+
+<!-- Your content for WSTG-ERRH-01: Testing for Improper Error Handling goes here -->
+
+## WSTG-ERRH-02: Testing for Stack Traces <a id="wstg-errh-02-testing-for-stack-traces"></a>
+
+<!-- Your content for WSTG-ERRH-02: Testing for Stack Traces goes here -->
