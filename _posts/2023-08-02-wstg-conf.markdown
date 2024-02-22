@@ -1,4 +1,4 @@
-![image](https://github.com/n0b0dykn0wsm3/n0b0dykn0wsm3.github.io/assets/99424664/cbccc7cc-d335-4fd4-9319-1b9e658c8c40)![image](https://github.com/n0b0dykn0wsm3/n0b0dykn0wsm3.github.io/assets/99424664/70334081-0b16-41e9-b575-6fd6a7488faf)---
+---
 layout: post
 title:  Web Security Testing Guide (WSTG)
 description: WSTG-CONF
