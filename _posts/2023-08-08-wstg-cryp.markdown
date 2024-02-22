@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-CRYP
+date:   2023-08-03 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Cryptography Testing
+
+- [WSTG-CRYP-01: Testing for Weak Transport Layer Security](#wstg-cryp-01-testing-for-weak-transport-layer-security)
+- [WSTG-CRYP-02: Testing for Padding Oracle](#wstg-cryp-02-testing-for-padding-oracle)
+- [WSTG-CRYP-03: Testing for Sensitive Information Sent via Unencrypted Channels](#wstg-cryp-03-testing-for-sensitive-information-sent-via-unencrypted-channels)
+- [WSTG-CRYP-04: Testing for Weak Encryption](#wstg-cryp-04-testing-for-weak-encryption)
+
+## WSTG-CRYP-01: Testing for Weak Transport Layer Security <a id="wstg-cryp-01-testing-for-weak-transport-layer-security"></a>
+
+<!-- Your content for WSTG-CRYP-01: Testing for Weak Transport Layer Security goes here -->
+
+## WSTG-CRYP-02: Testing for Padding Oracle <a id="wstg-cryp-02-testing-for-padding-oracle"></a>
+
+<!-- Your content for WSTG-CRYP-02: Testing for Padding Oracle goes here -->
+
+## WSTG-CRYP-03: Testing for Sensitive Information Sent via Unencrypted Channels <a id="wstg-cryp-03-testing-for-sensitive-information-sent-via-unencrypted-channels"></a>
+
+<!-- Your content for WSTG-CRYP-03: Testing for Sensitive Information Sent via Unencrypted Channels goes here -->
+
+## WSTG-CRYP-04: Testing for Weak Encryption <a id="wstg-cryp-04-testing-for-weak-encryption"></a>
+
+<!-- Your content for WSTG-CRYP-04: Testing for Weak Encryption goes here -->
