@@ -1,0 +1,61 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-AUTH
+date:   2023-08-03 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents
+
+- [WSTG-ATHN-01: Introduction](#wstg-athn-01-introduction)
+- [WSTG-ATHN-02: Architecture Overview](#wstg-athn-02-architecture-overview)
+- [WSTG-ATHN-03: Key Components](#wstg-athn-03-key-components)
+- [WSTG-ATHN-04: Technologies Used](#wstg-athn-04-technologies-used)
+- [WSTG-ATHN-05: Data Flow Diagram](#wstg-athn-05-data-flow-diagram)
+- [WSTG-ATHN-06: Authentication Mechanisms](#wstg-athn-06-authentication-mechanisms)
+- [WSTG-ATHN-07: Authorization Schemes](#wstg-athn-07-authorization-schemes)
+- [WSTG-ATHN-08: Data Validation Mechanisms](#wstg-athn-08-data-validation-mechanisms)
+- [WSTG-ATHN-09: Session Management](#wstg-athn-09-session-management)
+- [WSTG-ATHN-10: Error Handling and Logging](#wstg-athn-10-error-handling-and-logging)
+
+## WSTG-ATHN-01: Introduction <a id="wstg-athn-01-introduction"></a>
+
+<!-- Your content for WSTG-ATHN-01 goes here -->
+
+## WSTG-ATHN-02: Architecture Overview <a id="wstg-athn-02-architecture-overview"></a>
+
+<!-- Your content for WSTG-ATHN-02 goes here -->
+
+## WSTG-ATHN-03: Key Components <a id="wstg-athn-03-key-components"></a>
+
+<!-- Your content for WSTG-ATHN-03 goes here -->
+
+## WSTG-ATHN-04: Technologies Used <a id="wstg-athn-04-technologies-used"></a>
+
+<!-- Your content for WSTG-ATHN-04 goes here -->
+
+## WSTG-ATHN-05: Data Flow Diagram <a id="wstg-athn-05-data-flow-diagram"></a>
+
+<!-- Your content for WSTG-ATHN-05 goes here -->
+
+## WSTG-ATHN-06: Authentication Mechanisms <a id="wstg-athn-06-authentication-mechanisms"></a>
+
+<!-- Your content for WSTG-ATHN-06 goes here -->
+
+## WSTG-ATHN-07: Authorization Schemes <a id="wstg-athn-07-authorization-schemes"></a>
+
+<!-- Your content for WSTG-ATHN-07 goes here -->
+
+## WSTG-ATHN-08: Data Validation Mechanisms <a id="wstg-athn-08-data-validation-mechanisms"></a>
+
+<!-- Your content for WSTG-ATHN-08 goes here -->
+
+## WSTG-ATHN-09: Session Management <a id="wstg-athn-09-session-management"></a>
+
+<!-- Your content for WSTG-ATHN-09 goes here -->
+
+## WSTG-ATHN-10: Error Handling and Logging <a id="wstg-athn-10-error-handling-and-logging"></a>
+
+<!-- Your content for WSTG-ATHN-10 goes here -->
