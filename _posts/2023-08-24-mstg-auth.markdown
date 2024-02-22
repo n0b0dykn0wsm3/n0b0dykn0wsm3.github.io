@@ -1,0 +1,47 @@
+---
+layout: post
+title:  Mobile Security Testing Guide (MSTG)
+description: MSTG-AUTH
+date:   2023-08-24 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - MSTG Authentication and Session Management
+
+- [MSTG-AUTH-1: If the app provides users access to a remote service, some form of authentication, such as username/password authentication, is performed at the remote endpoint.](#mstg-auth-1-if-the-app-provides-users-access-to-a-remote-service-some-form-of-authentication-such-as-usernamepassword-authentication-is-performed-at-the-remote-endpoint)
+- [MSTG-AUTH-2: If stateful session management is used, the remote endpoint uses randomly generated session identifiers to authenticate client requests without sending the user's credentials.](#mstg-auth-2-if-stateful-session-management-is-used-the-remote-endpoint-uses-randomly-generated-session-identifiers-to-authenticate-client-requests-without-sending-the-users-credentials)
+- [MSTG-AUTH-3: If stateless token-based authentication is used, the server provides a token that has been signed using a secure algorithm.](#mstg-auth-3-if-stateless-token-based-authentication-is-used-the-server-provides-a-token-that-has-been-signed-using-a-secure-algorithm)
+- [MSTG-AUTH-4: The remote endpoint terminates the existing session when the user logs out.](#mstg-auth-4-the-remote-endpoint-terminates-the-existing-session-when-the-user-logs-out)
+- [MSTG-AUTH-5: A password policy exists and is enforced at the remote endpoint.](#mstg-auth-5-a-password-policy-exists-and-is-enforced-at-the-remote-endpoint)
+- [MSTG-AUTH-6: The remote endpoint implements a mechanism to protect against the submission of credentials an excessive number of times.](#mstg-auth-6-the-remote-endpoint-implements-a-mechanism-to-protect-against-the-submission-of-credentials-an-excessive-number-of-times)
+- [MSTG-AUTH-7: Sessions are invalidated at the remote endpoint after a predefined period of inactivity and access tokens expire.](#mstg-auth-7-sessions-are-invalidated-at-the-remote-endpoint-after-a-predefined-period-of-inactivity-and-access-tokens-expire)
+- [MSTG-AUTH-8: Biometric authentication, if any, is not event-bound (i.e. using an API that simply returns "true" or "false"). Instead, it is based on unlocking the keychain/keystore.](#mstg-auth-8-biometric-authentication-if-any-is-not-event-bound-ie-using-an-api-that-simply-returns-true-or-false-instead-it-is-based-on-unlocking-the-keychainkeystore)
+- [MSTG-AUTH-9: A second factor of authentication exists at the remote endpoint and the 2FA requirement is consistently enforced.](#mstg-auth-9-a-second-factor-of-authentication-exists-at-the-remote-endpoint-and-the-2fa-requirement-is-consistently-enforced)
+- [MSTG-AUTH-10: Sensitive transactions require step-up authentication.](#mstg-auth-10-sensitive-transactions-require-step-up-authentication)
+- [MSTG-AUTH-11: The app informs the user of all sensitive activities with their account. Users are able to view a list of devices, view contextual information (IP address, location, etc.), and to block specific devices.](#mstg-auth-11-the-app-informs-the-user-of-all-sensitive-activities-with-their-account-users-are-able-to-view-a-list-of-devices-view-contextual-information-ip-address-location-etc-and-to-block-specific-devices)
+- [MSTG-AUTH-12: Authorization models should be defined and enforced at the remote endpoint.](#mstg-auth-12-authorization-models-should-be-defined-and-enforced-at-the-remote-endpoint)
+
+## MSTG-AUTH-1: If the app provides users access to a remote service, some form of authentication, such as username/password authentication, is performed at the remote endpoint. <a id="mstg-auth-1-if-the-app-provides-users-access-to-a-remote-service-some-form-of-authentication-such-as-usernamepassword-authentication-is-performed-at-the-remote-endpoint"></a>
+
+## MSTG-AUTH-2: If stateful session management is used, the remote endpoint uses randomly generated session identifiers to authenticate client requests without sending the user's credentials. <a id="mstg-auth-2-if-stateful-session-management-is-used-the-remote-endpoint-uses-randomly-generated-session-identifiers-to-authenticate-client-requests-without-sending-the-users-credentials"></a>
+
+## MSTG-AUTH-3: If stateless token-based authentication is used, the server provides a token that has been signed using a secure algorithm. <a id="mstg-auth-3-if-stateless-token-based-authentication-is-used-the-server-provides-a-token-that-has-been-signed-using-a-secure-algorithm"></a>
+
+## MSTG-AUTH-4: The remote endpoint terminates the existing session when the user logs out. <a id="mstg-auth-4-the-remote-endpoint-terminates-the-existing-session-when-the-user-logs-out"></a>
+
+## MSTG-AUTH-5: A password policy exists and is enforced at the remote endpoint. <a id="mstg-auth-5-a-password-policy-exists-and-is-enforced-at-the-remote-endpoint"></a>
+
+## MSTG-AUTH-6: The remote endpoint implements a mechanism to protect against the submission of credentials an excessive number of times. <a id="mstg-auth-6-the-remote-endpoint-implements-a-mechanism-to-protect-against-the-submission-of-credentials-an-excessive-number-of-times"></a>
+
+## MSTG-AUTH-7: Sessions are invalidated at the remote endpoint after a predefined period of inactivity and access tokens expire. <a id="mstg-auth-7-sessions-are-invalidated-at-the-remote-endpoint-after-a-predefined-period-of-inactivity-and-access-tokens-expire"></a>
+
+## MSTG-AUTH-8: Biometric authentication, if any, is not event-bound (i.e. using an API that simply returns "true" or "false"). Instead, it is based on unlocking the keychain/keystore. <a id="mstg-auth-8-biometric-authentication-if-any-is-not-event-bound-ie-using-an-api-that-simply-returns-true-or-false-instead-it-is-based-on-unlocking-the-keychainkeystore"></a>
+
+## MSTG-AUTH-9: A second factor of authentication exists at the remote endpoint and the 2FA requirement is consistently enforced. <a id="mstg-auth-9-a-second-factor-of-authentication-exists-at-the-remote-endpoint-and-the-2fa-requirement-is-consistently-enforced"></a>
+
+## MSTG-AUTH-10: Sensitive transactions require step-up authentication. <a id="mstg-auth-10-sensitive-transactions-require-step-up-authentication"></a>
+
+## MSTG-AUTH-11: The app informs the user of all sensitive activities with their account. Users are able to view a list of devices, view contextual information (IP address, location, etc.), and to block specific devices. <a id="mstg-auth-11-the-app-informs-the-user-of-all-sensitive-activities-with-their-account-users-are-able-to-view-a-list-of-devices-view-contextual-information-ip-address-location-etc-and-to-block-specific-devices"></a>
+
+## MSTG-AUTH-12: Authorization models should be defined and enforced at the remote endpoint. <a id="mstg-auth-12-authorization-models-should-be-defined-and-enforced-at-the-remote-endpoint"></a>
