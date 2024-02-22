@@ -14,58 +14,58 @@ Information  Gathering is process to
 
 # Table of Contents
 
-- [WSTG-CONF-01: Test Network Infrastructure Configuration](#wstg-conf-01-test-network-infra-conf)
-- [WSTG-CONF-02: Architecture Overview](#wstg-conf-02-architecture-overview)
-- [WSTG-CONF-03: Key Components](#wstg-conf-03-key-components)
-- [WSTG-CONF-04: Technologies Used](#wstg-conf-04-technologies-used)
-- [WSTG-CONF-05: Data Flow Diagram](#wstg-conf-05-data-flow-diagram)
-- [WSTG-CONF-06: Authentication Mechanisms](#wstg-conf-06-authentication-mechanisms)
-- [WSTG-CONF-07: Authorization Schemes](#wstg-conf-07-authorization-schemes)
-- [WSTG-CONF-08: Data Validation Mechanisms](#wstg-conf-08-data-validation-mechanisms)
-- [WSTG-CONF-09: Session Management](#wstg-conf-09-session-management)
-- [WSTG-CONF-10: Error Handling and Logging](#wstg-conf-10-error-handling-and-logging)
-- [WSTG-CONF-11: Some Other Section](#wstg-conf-11-some-other-section)
+- [WSTG-CONF-01: Test Network Infrastructure Configuration](#wstg-conf-01-test-network-infrastructure-configuration)
+- [WSTG-CONF-02: Test Application Platform Configuration](#wstg-conf-02-test-application-platform-configuration)
+- [WSTG-CONF-03: Test File Extensions Handling for Sensitive Information](#wstg-conf-03-test-file-extensions-handling-for-sensitive-information)
+- [WSTG-CONF-04: Review Old Backup and Unreferenced Files for Sensitive Information](#wstg-conf-04-review-old-backup-and-unreferenced-files-for-sensitive-information)
+- [WSTG-CONF-05: Enumerate Infrastructure and Application Admin Interfaces](#wstg-conf-05-enumerate-infrastructure-and-application-admin-interfaces)
+- [WSTG-CONF-06: Test HTTP Methods](#wstg-conf-06-test-http-methods)
+- [WSTG-CONF-07: Test HTTP Strict Transport Security](#wstg-conf-07-test-http-strict-transport-security)
+- [WSTG-CONF-08: Test RIA cross domain policy](#wstg-conf-08-test-ria-cross-domain-policy)
+- [WSTG-CONF-09: Test File Permission](#wstg-conf-09-test-file-permission)
+- [WSTG-CONF-10: Test for Subdomain Takeover](#wstg-conf-10-test-for-subdomain-takeover)
+- [WSTG-CONF-11: Test Cloud Storage](#wstg-conf-11-test-cloud-storage)
 
-## WSTG-CONF-01: Test Network Infrastructure Configuration <a id="wstg-conf-01-test-network-infra-conf"></a>
+## WSTG-CONF-01: Test Network Infrastructure Configuration <a id="wstg-conf-01-test-network-infrastructure-configuration"></a>
 
 <!-- Your content for WSTG-CONF-01 goes here -->
 
-## WSTG-CONF-02: Architecture Overview <a id="wstg-conf-02-architecture-overview"></a>
+## WSTG-CONF-02: Test Application Platform Configuration <a id="wstg-conf-02-test-application-platform-configuration"></a>
 
 <!-- Your content for WSTG-CONF-02 goes here -->
 
-## WSTG-CONF-03: Key Components <a id="wstg-conf-03-key-components"></a>
+## WSTG-CONF-03: Test File Extensions Handling for Sensitive Information <a id="wstg-conf-03-test-file-extensions-handling-for-sensitive-information"></a>
 
 <!-- Your content for WSTG-CONF-03 goes here -->
 
-## WSTG-CONF-04: Technologies Used <a id="wstg-conf-04-technologies-used"></a>
+## WSTG-CONF-04: Review Old Backup and Unreferenced Files for Sensitive Information <a id="wstg-conf-04-review-old-backup-and-unreferenced-files-for-sensitive-information"></a>
 
 <!-- Your content for WSTG-CONF-04 goes here -->
 
-## WSTG-CONF-05: Data Flow Diagram <a id="wstg-conf-05-data-flow-diagram"></a>
+## WSTG-CONF-05: Enumerate Infrastructure and Application Admin Interfaces <a id="wstg-conf-05-enumerate-infrastructure-and-application-admin-interfaces"></a>
 
 <!-- Your content for WSTG-CONF-05 goes here -->
 
-## WSTG-CONF-06: Authentication Mechanisms <a id="wstg-conf-06-authentication-mechanisms"></a>
+## WSTG-CONF-06: Test HTTP Methods <a id="wstg-conf-06-test-http-methods"></a>
 
 <!-- Your content for WSTG-CONF-06 goes here -->
 
-## WSTG-CONF-07: Authorization Schemes <a id="wstg-conf-07-authorization-schemes"></a>
+## WSTG-CONF-07: Test HTTP Strict Transport Security <a id="wstg-conf-07-test-http-strict-transport-security"></a>
 
 <!-- Your content for WSTG-CONF-07 goes here -->
 
-## WSTG-CONF-08: Data Validation Mechanisms <a id="wstg-conf-08-data-validation-mechanisms"></a>
+## WSTG-CONF-08: Test RIA cross domain policy <a id="wstg-conf-08-test-ria-cross-domain-policy"></a>
 
 <!-- Your content for WSTG-CONF-08 goes here -->
 
-## WSTG-CONF-09: Session Management <a id="wstg-conf-09-session-management"></a>
+## WSTG-CONF-09: Test File Permission <a id="wstg-conf-09-test-file-permission"></a>
 
 <!-- Your content for WSTG-CONF-09 goes here -->
 
-## WSTG-CONF-10: Error Handling and Logging <a id="wstg-conf-10-error-handling-and-logging"></a>
+## WSTG-CONF-10: Test for Subdomain Takeover <a id="wstg-conf-10-test-for-subdomain-takeover"></a>
 
 <!-- Your content for WSTG-CONF-10 goes here -->
 
-## WSTG-CONF-11: Some Other Section <a id="wstg-conf-11-some-other-section"></a>
+## WSTG-CONF-11: Test Cloud Storage <a id="wstg-conf-11-test-cloud-storage"></a>
 
 <!-- Your content for WSTG-CONF-11 goes here -->
