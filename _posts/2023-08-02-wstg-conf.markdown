@@ -14,7 +14,7 @@ Information  Gathering is process to
 
 # Table of Contents
 
-- [WSTG-CONF-01: Introduction](#wstg-conf-01-test-network-infra-conf)
+- [WSTG-CONF-01: Test Network Infrastructure Configuration](#wstg-conf-01-test-network-infra-conf)
 - [WSTG-CONF-02: Architecture Overview](#wstg-conf-02-architecture-overview)
 - [WSTG-CONF-03: Key Components](#wstg-conf-03-key-components)
 - [WSTG-CONF-04: Technologies Used](#wstg-conf-04-technologies-used)
