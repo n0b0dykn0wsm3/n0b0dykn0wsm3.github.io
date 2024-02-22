@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mobile Security Testing Guide (MSTG)
-description: WSTG-AUTH
+description: MSTG-ARCH
 date:   2023-08-21 15:01:35 +0700
 image:  '/images/20.jpg'
 tags:   [Penetration Tester, Red Team, Cheatsheet ]
