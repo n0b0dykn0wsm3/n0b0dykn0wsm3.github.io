@@ -1,0 +1,76 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-CLNT
+date:   2023-08-03 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Client Side Testing
+
+- [WSTG-CLNT-01: Testing for DOM-Based Cross Site Scripting](#wstg-clnt-01-testing-for-dom-based-cross-site-scripting)
+- [WSTG-CLNT-02: Testing for JavaScript Execution](#wstg-clnt-02-testing-for-javascript-execution)
+- [WSTG-CLNT-03: Testing for HTML Injection](#wstg-clnt-03-testing-for-html-injection)
+- [WSTG-CLNT-04: Testing for Client Side URL Redirect](#wstg-clnt-04-testing-for-client-side-url-redirect)
+- [WSTG-CLNT-05: Testing for CSS Injection](#wstg-clnt-05-testing-for-css-injection)
+- [WSTG-CLNT-06: Testing for Client Side Resource Manipulation](#wstg-clnt-06-testing-for-client-side-resource-manipulation)
+- [WSTG-CLNT-07: Test Cross Origin Resource Sharing](#wstg-clnt-07-test-cross-origin-resource-sharing)
+- [WSTG-CLNT-08: Testing for Cross Site Flashing](#wstg-clnt-08-testing-for-cross-site-flashing)
+- [WSTG-CLNT-09: Testing for Clickjacking](#wstg-clnt-09-testing-for-clickjacking)
+- [WSTG-CLNT-10: Testing WebSockets](#wstg-clnt-10-testing-websockets)
+- [WSTG-CLNT-11: Test Web Messaging](#wstg-clnt-11-test-web-messaging)
+- [WSTG-CLNT-12: Testing Browser Storage](#wstg-clnt-12-testing-browser-storage)
+- [WSTG-CLNT-13: Testing for Cross Site Script Inclusion](#wstg-clnt-13-testing-for-cross-site-script-inclusion)
+
+## WSTG-CLNT-01: Testing for DOM-Based Cross Site Scripting <a id="wstg-clnt-01-testing-for-dom-based-cross-site-scripting"></a>
+
+<!-- Your content for WSTG-CLNT-01: Testing for DOM-Based Cross Site Scripting goes here -->
+
+## WSTG-CLNT-02: Testing for JavaScript Execution <a id="wstg-clnt-02-testing-for-javascript-execution"></a>
+
+<!-- Your content for WSTG-CLNT-02: Testing for JavaScript Execution goes here -->
+
+## WSTG-CLNT-03: Testing for HTML Injection <a id="wstg-clnt-03-testing-for-html-injection"></a>
+
+<!-- Your content for WSTG-CLNT-03: Testing for HTML Injection goes here -->
+
+## WSTG-CLNT-04: Testing for Client Side URL Redirect <a id="wstg-clnt-04-testing-for-client-side-url-redirect"></a>
+
+<!-- Your content for WSTG-CLNT-04: Testing for Client Side URL Redirect goes here -->
+
+## WSTG-CLNT-05: Testing for CSS Injection <a id="wstg-clnt-05-testing-for-css-injection"></a>
+
+<!-- Your content for WSTG-CLNT-05: Testing for CSS Injection goes here -->
+
+## WSTG-CLNT-06: Testing for Client Side Resource Manipulation <a id="wstg-clnt-06-testing-for-client-side-resource-manipulation"></a>
+
+<!-- Your content for WSTG-CLNT-06: Testing for Client Side Resource Manipulation goes here -->
+
+## WSTG-CLNT-07: Test Cross Origin Resource Sharing <a id="wstg-clnt-07-test-cross-origin-resource-sharing"></a>
+
+<!-- Your content for WSTG-CLNT-07: Test Cross Origin Resource Sharing goes here -->
+
+## WSTG-CLNT-08: Testing for Cross Site Flashing <a id="wstg-clnt-08-testing-for-cross-site-flashing"></a>
+
+<!-- Your content for WSTG-CLNT-08: Testing for Cross Site Flashing goes here -->
+
+## WSTG-CLNT-09: Testing for Clickjacking <a id="wstg-clnt-09-testing-for-clickjacking"></a>
+
+<!-- Your content for WSTG-CLNT-09: Testing for Clickjacking goes here -->
+
+## WSTG-CLNT-10: Testing WebSockets <a id="wstg-clnt-10-testing-websockets"></a>
+
+<!-- Your content for WSTG-CLNT-10: Testing WebSockets goes here -->
+
+## WSTG-CLNT-11: Test Web Messaging <a id="wstg-clnt-11-test-web-messaging"></a>
+
+<!-- Your content for WSTG-CLNT-11: Test Web Messaging goes here -->
+
+## WSTG-CLNT-12: Testing Browser Storage <a id="wstg-clnt-12-testing-browser-storage"></a>
+
+<!-- Your content for WSTG-CLNT-12: Testing Browser Storage goes here -->
+
+## WSTG-CLNT-13: Testing for Cross Site Script Inclusion <a id="wstg-clnt-13-testing-for-cross-site-script-inclusion"></a>
+
+<!-- Your content for WSTG-CLNT-13: Testing for Cross Site Script Inclusion goes here -->
