@@ -1,0 +1,108 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-INPV
+date:   2023-08-06 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Data Validation Testing
+
+- [WSTG-INPV-01: Testing for Reflected Cross Site Scripting](#wstg-inpv-01-testing-for-reflected-cross-site-scripting)
+- [WSTG-INPV-02: Testing for Stored Cross Site Scripting](#wstg-inpv-02-testing-for-stored-cross-site-scripting)
+- [WSTG-INPV-03: Testing for HTTP Verb Tampering](#wstg-inpv-03-testing-for-http-verb-tampering)
+- [WSTG-INPV-04: Testing for HTTP Parameter Pollution](#wstg-inpv-04-testing-for-http-parameter-pollution)
+- [WSTG-INPV-05: Testing for SQL Injection](#wstg-inpv-05-testing-for-sql-injection)
+- [WSTG-INPV-06: Testing for LDAP Injection](#wstg-inpv-06-testing-for-ldap-injection)
+- [WSTG-INPV-07: Testing for XML Injection](#wstg-inpv-07-testing-for-xml-injection)
+- [WSTG-INPV-08: Testing for SSI Injection](#wstg-inpv-08-testing-for-ssi-injection)
+- [WSTG-INPV-09: Testing for XPath Injection](#wstg-inpv-09-testing-for-xpath-injection)
+- [WSTG-INPV-10: Testing for IMAP SMTP Injection](#wstg-inpv-10-testing-for-imap-smtp-injection)
+- [WSTG-INPV-11: Testing for Code Injection](#wstg-inpv-11-testing-for-code-injection)
+- [WSTG-INPV-12: Testing for Command Injection](#wstg-inpv-12-testing-for-command-injection)
+- [WSTG-INPV-13: Testing for Format String Injection](#wstg-inpv-13-testing-for-format-string-injection)
+- [WSTG-INPV-14: Testing for Incubated Vulnerability](#wstg-inpv-14-testing-for-incubated-vulnerability)
+- [WSTG-INPV-15: Testing for HTTP Splitting Smuggling](#wstg-inpv-15-testing-for-http-splitting-smuggling)
+- [WSTG-INPV-16: Testing for HTTP Incoming Requests](#wstg-inpv-16-testing-for-http-incoming-requests)
+- [WSTG-INPV-17: Testing for Host Header Injection](#wstg-inpv-17-testing-for-host-header-injection)
+- [WSTG-INPV-18: Testing for Server-side Template Injection](#wstg-inpv-18-testing-for-server-side-template-injection)
+- [WSTG-INPV-19: Testing for Server-Side Request Forgery](#wstg-inpv-19-testing-for-server-side-request-forgery)
+
+# Summary
+
+## WSTG-INPV-01: Testing for Reflected Cross Site Scripting <a id="wstg-inpv-01-testing-for-reflected-cross-site-scripting"></a>
+
+<!-- Your content for WSTG-INPV-01: Testing for Reflected Cross Site Scripting goes here -->
+
+## WSTG-INPV-02: Testing for Stored Cross Site Scripting <a id="wstg-inpv-02-testing-for-stored-cross-site-scripting"></a>
+
+<!-- Your content for WSTG-INPV-02: Testing for Stored Cross Site Scripting goes here -->
+
+## WSTG-INPV-03: Testing for HTTP Verb Tampering <a id="wstg-inpv-03-testing-for-http-verb-tampering"></a>
+
+<!-- Your content for WSTG-INPV-03: Testing for HTTP Verb Tampering goes here -->
+
+## WSTG-INPV-04: Testing for HTTP Parameter Pollution <a id="wstg-inpv-04-testing-for-http-parameter-pollution"></a>
+
+<!-- Your content for WSTG-INPV-04: Testing for HTTP Parameter Pollution goes here -->
+
+## WSTG-INPV-05: Testing for SQL Injection <a id="wstg-inpv-05-testing-for-sql-injection"></a>
+
+<!-- Your content for WSTG-INPV-05: Testing for SQL Injection goes here -->
+
+## WSTG-INPV-06: Testing for LDAP Injection <a id="wstg-inpv-06-testing-for-ldap-injection"></a>
+
+<!-- Your content for WSTG-INPV-06: Testing for LDAP Injection goes here -->
+
+## WSTG-INPV-07: Testing for XML Injection <a id="wstg-inpv-07-testing-for-xml-injection"></a>
+
+<!-- Your content for WSTG-INPV-07: Testing for XML Injection goes here -->
+
+## WSTG-INPV-08: Testing for SSI Injection <a id="wstg-inpv-08-testing-for-ssi-injection"></a>
+
+<!-- Your content for WSTG-INPV-08: Testing for SSI Injection goes here -->
+
+## WSTG-INPV-09: Testing for XPath Injection <a id="wstg-inpv-09-testing-for-xpath-injection"></a>
+
+<!-- Your content for WSTG-INPV-09: Testing for XPath Injection goes here -->
+
+## WSTG-INPV-10: Testing for IMAP SMTP Injection <a id="wstg-inpv-10-testing-for-imap-smtp-injection"></a>
+
+<!-- Your content for WSTG-INPV-10: Testing for IMAP SMTP Injection goes here -->
+
+## WSTG-INPV-11: Testing for Code Injection <a id="wstg-inpv-11-testing-for-code-injection"></a>
+
+<!-- Your content for WSTG-INPV-11: Testing for Code Injection goes here -->
+
+## WSTG-INPV-12: Testing for Command Injection <a id="wstg-inpv-12-testing-for-command-injection"></a>
+
+<!-- Your content for WSTG-INPV-12: Testing for Command Injection goes here -->
+
+## WSTG-INPV-13: Testing for Format String Injection <a id="wstg-inpv-13-testing-for-format-string-injection"></a>
+
+<!-- Your content for WSTG-INPV-13: Testing for Format String Injection goes here -->
+
+## WSTG-INPV-14: Testing for Incubated Vulnerability <a id="wstg-inpv-14-testing-for-incubated-vulnerability"></a>
+
+<!-- Your content for WSTG-INPV-14: Testing for Incubated Vulnerability goes here -->
+
+## WSTG-INPV-15: Testing for HTTP Splitting Smuggling <a id="wstg-inpv-15-testing-for-http-splitting-smuggling"></a>
+
+<!-- Your content for WSTG-INPV-15: Testing for HTTP Splitting Smuggling goes here -->
+
+## WSTG-INPV-16: Testing for HTTP Incoming Requests <a id="wstg-inpv-16-testing-for-http-incoming-requests"></a>
+
+<!-- Your content for WSTG-INPV-16: Testing for HTTP Incoming Requests goes here -->
+
+## WSTG-INPV-17: Testing for Host Header Injection <a id="wstg-inpv-17-testing-for-host-header-injection"></a>
+
+<!-- Your content for WSTG-INPV-17: Testing for Host Header Injection goes here -->
+
+## WSTG-INPV-18: Testing for Server-side Template Injection <a id="wstg-inpv-18-testing-for-server-side-template-injection"></a>
+
+<!-- Your content for WSTG-INPV-18: Testing for Server-side Template Injection goes here -->
+
+## WSTG-INPV-19: Testing for Server-Side Request Forgery <a id="wstg-inpv-19-testing-for-server-side-request-forgery"></a>
+
+<!-- Your content for WSTG-INPV-19: Testing for Server-Side Request Forgery goes here -->
