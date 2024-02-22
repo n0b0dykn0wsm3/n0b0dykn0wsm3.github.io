@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-BUSL
+date:   2023-08-09 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Business Logic Testing
+
+- [WSTG-BUSL-01: Test Business Logic Data Validation](#wstg-busl-01-test-business-logic-data-validation)
+- [WSTG-BUSL-02: Test Ability to Forge Requests](#wstg-busl-02-test-ability-to-forge-requests)
+- [WSTG-BUSL-03: Test Integrity Checks](#wstg-busl-03-test-integrity-checks)
+- [WSTG-BUSL-04: Test for Process Timing](#wstg-busl-04-test-for-process-timing)
+- [WSTG-BUSL-05: Test Number of Times a Function Can be Used Limits](#wstg-busl-05-test-number-of-times-a-function-can-be-used-limits)
+- [WSTG-BUSL-06: Testing for the Circumvention of Work Flows](#wstg-busl-06-testing-for-the-circumvention-of-work-flows)
+- [WSTG-BUSL-07: Test Defenses Against Application Mis-use](#wstg-busl-07-test-defenses-against-application-mis-use)
+- [WSTG-BUSL-08: Test Upload of Unexpected File Types](#wstg-busl-08-test-upload-of-unexpected-file-types)
+- [WSTG-BUSL-09: Test Upload of Malicious Files](#wstg-busl-09-test-upload-of-malicious-files)
+
+## WSTG-BUSL-01: Test Business Logic Data Validation <a id="wstg-busl-01-test-business-logic-data-validation"></a>
+
+<!-- Your content for WSTG-BUSL-01: Test Business Logic Data Validation goes here -->
+
+## WSTG-BUSL-02: Test Ability to Forge Requests <a id="wstg-busl-02-test-ability-to-forge-requests"></a>
+
+<!-- Your content for WSTG-BUSL-02: Test Ability to Forge Requests goes here -->
+
+## WSTG-BUSL-03: Test Integrity Checks <a id="wstg-busl-03-test-integrity-checks"></a>
+
+<!-- Your content for WSTG-BUSL-03: Test Integrity Checks goes here -->
+
+## WSTG-BUSL-04: Test for Process Timing <a id="wstg-busl-04-test-for-process-timing"></a>
+
+<!-- Your content for WSTG-BUSL-04: Test for Process Timing goes here -->
+
+## WSTG-BUSL-05: Test Number of Times a Function Can be Used Limits <a id="wstg-busl-05-test-number-of-times-a-function-can-be-used-limits"></a>
+
+<!-- Your content for WSTG-BUSL-05: Test Number of Times a Function Can be Used Limits goes here -->
+
+## WSTG-BUSL-06: Testing for the Circumvention of Work Flows <a id="wstg-busl-06-testing-for-the-circumvention-of-work-flows"></a>
+
+<!-- Your content for WSTG-BUSL-06: Testing for the Circumvention of Work Flows goes here -->
+
+## WSTG-BUSL-07: Test Defenses Against Application Mis-use <a id="wstg-busl-07-test-defenses-against-application-mis-use"></a>
+
+<!-- Your content for WSTG-BUSL-07: Test Defenses Against Application Mis-use goes here -->
+
+## WSTG-BUSL-08: Test Upload of Unexpected File Types <a id="wstg-busl-08-test-upload-of-unexpected-file-types"></a>
+
+<!-- Your content for WSTG-BUSL-08: Test Upload of Unexpected File Types goes here -->
+
+## WSTG-BUSL-09: Test Upload of Malicious Files <a id="wstg-busl-09-test-upload-of-malicious-files"></a>
+
+<!-- Your content for WSTG-BUSL-09: Test Upload of Malicious Files goes here -->
