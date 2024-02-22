@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Mobile Security Testing Guide (MSTG)
+description: WSTG-AUTH
+date:   2023-08-21 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+
+# Table of Contents - MSTG Architecture, Design, and Threat Modelling
+
+- [MSTG-ARCH-1: All app components are identified and known to be needed.](#mstg-arch-1-all-app-components-are-identified-and-known-to-be-needed)
+- [MSTG-ARCH-2: Security controls are never enforced only on the client side, but on the respective remote endpoints.](#mstg-arch-2-security-controls-are-never-enforced-only-on-the-client-side-but-on-the-respective-remote-endpoints)
+- [MSTG-ARCH-3: A high-level architecture for the mobile app and all connected remote services has been defined and security has been addressed in that architecture.](#mstg-arch-3-a-high-level-architecture-for-the-mobile-app-and-all-connected-remote-services-has-been-defined-and-security-has-been-addressed-in-that-architecture)
+- [MSTG-ARCH-4: Data considered sensitive in the context of the mobile app is clearly identified.](#mstg-arch-4-data-considered-sensitive-in-the-context-of-the-mobile-app-is-clearly-identified)
+- [MSTG-ARCH-5: All app components are defined in terms of the business functions and/or security functions they provide.](#mstg-arch-5-all-app-components-are-defined-in-terms-of-the-business-functions-andor-security-functions-they-provide)
+- [MSTG-ARCH-6: A threat model for the mobile app and the associated remote services has been produced that identifies potential threats and countermeasures.](#mstg-arch-6-a-threat-model-for-the-mobile-app-and-the-associated-remote-services-has-been-produced-that-identifies-potential-threats-and-countermeasures)
+- [MSTG-ARCH-7: All security controls have a centralized implementation.](#mstg-arch-7-all-security-controls-have-a-centralized-implementation)
+- [MSTG-ARCH-8: There is an explicit policy for how cryptographic keys (if any) are managed, and the lifecycle of cryptographic keys is enforced. Ideally, follow a key management standard such as NIST SP 800-57.](#mstg-arch-8-there-is-an-explicit-policy-for-how-cryptographic-keys-if-any-are-managed-and-the-lifecycle-of-cryptographic-keys-is-enforced-ideally-follow-a-key-management-standard-such-as-nist-sp-800-57)
+- [MSTG-ARCH-9: A mechanism for enforcing updates of the mobile app exists.](#mstg-arch-9-a-mechanism-for-enforcing-updates-of-the-mobile-app-exists)
+- [MSTG-ARCH-10: Security is addressed within all parts of the software development lifecycle.](#mstg-arch-10-security-is-addressed-within-all-parts-of-the-software-development-lifecycle)
+- [MSTG-ARCH-11: A responsible disclosure policy is in place and effectively applied.](#mstg-arch-11-a-responsible-disclosure-policy-is-in-place-and-effectively-applied)
+- [MSTG-ARCH-12: The app should comply with privacy laws and regulations.](#mstg-arch-12-the-app-should-comply-with-privacy-laws-and-regulations)
+
+## MSTG-ARCH-1: All app components are identified and known to be needed. <a id="mstg-arch-1-all-app-components-are-identified-and-known-to-be-needed"></a>
+
+## MSTG-ARCH-2: Security controls are never enforced only on the client side, but on the respective remote endpoints. <a id="mstg-arch-2-security-controls-are-never-enforced-only-on-the-client-side-but-on-the-respective-remote-endpoints"></a>
+
+## MSTG-ARCH-3: A high-level architecture for the mobile app and all connected remote services has been defined and security has been addressed in that architecture. <a id="mstg-arch-3-a-high-level-architecture-for-the-mobile-app-and-all-connected-remote-services-has-been-defined-and-security-has-been-addressed-in-that-architecture"></a>
+
+## MSTG-ARCH-4: Data considered sensitive in the context of the mobile app is clearly identified. <a id="mstg-arch-4-data-considered-sensitive-in-the-context-of-the-mobile-app-is-clearly-identified"></a>
+
+## MSTG-ARCH-5: All app components are defined in terms of the business functions and/or security functions they provide. <a id="mstg-arch-5-all-app-components-are-defined-in-terms-of-the-business-functions-andor-security-functions-they-provide"></a>
+
+## MSTG-ARCH-6: A threat model for the mobile app and the associated remote services has been produced that identifies potential threats and countermeasures. <a id="mstg-arch-6-a-threat-model-for-the-mobile-app-and-the-associated-remote-services-has-been-produced-that-identifies-potential-threats-and-countermeasures"></a>
+
+## MSTG-ARCH-7: All security controls have a centralized implementation. <a id="mstg-arch-7-all-security-controls-have-a-centralized-implementation"></a>
+
+## MSTG-ARCH-8: There is an explicit policy for how cryptographic keys (if any) are managed, and the lifecycle of cryptographic keys is enforced. Ideally, follow a key management standard such as NIST SP 800-57. <a id="mstg-arch-8-there-is-an-explicit-policy-for-how-cryptographic-keys-if-any-are-managed-and-the-lifecycle-of-cryptographic-keys-is-enforced-ideally-follow-a-key-management-standard-such-as-nist-sp-800-57"></a>
+
+## MSTG-ARCH-9: A mechanism for enforcing updates of the mobile app exists. <a id="mstg-arch-9-a-mechanism-for-enforcing-updates-of-the-mobile-app-exists"></a>
+
+## MSTG-ARCH-10: Security is addressed within all parts of the software development lifecycle. <a id="mstg-arch-10-security-is-addressed-within-all-parts-of-the-software-development-lifecycle"></a>
+
+## MSTG-ARCH-11: A responsible disclosure policy is in place and effectively applied. <a id="mstg-arch-11-a-responsible-disclosure-policy-is-in-place-and-effectively-applied"></a>
+
+## MSTG-ARCH-12: The app should comply with privacy laws and regulations. <a id="mstg-arch-12-the-app-should-comply-with-privacy-laws-and-regulations"></a>
