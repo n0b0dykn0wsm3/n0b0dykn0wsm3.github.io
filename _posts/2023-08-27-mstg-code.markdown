@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Mobile Security Testing Guide (MSTG)
+description: MSTG-CODE
+date:   2023-08-27 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - MSTG Code Quality and Build Settings
+
+- [MSTG-CODE-1: The app is signed and provisioned with a valid certificate, of which the private key is properly protected.](#mstg-code-1-the-app-is-signed-and-provisioned-with-a-valid-certificate-of-which-the-private-key-is-properly-protected)
+- [MSTG-CODE-2: The app has been built in release mode, with settings appropriate for a release build (e.g. non-debuggable).](#mstg-code-2-the-app-has-been-built-in-release-mode-with-settings-appropriate-for-a-release-build-eg-non-debuggable)
+- [MSTG-CODE-3: Debugging symbols have been removed from native binaries.](#mstg-code-3-debugging-symbols-have-been-removed-from-native-binaries)
+- [MSTG-CODE-4: Debugging code and developer assistance code (e.g. test code, backdoors, hidden settings) have been removed. The app does not log verbose errors or debugging messages.](#mstg-code-4-debugging-code-and-developer-assistance-code-eg-test-code-backdoors-hidden-settings-have-been-removed-the-app-does-not-log-verbose-errors-or-debugging-messages)
+- [MSTG-CODE-5: All third party components used by the mobile app, such as libraries and frameworks, are identified, and checked for known vulnerabilities.](#mstg-code-5-all-third-party-components-used-by-the-mobile-app-such-as-libraries-and-frameworks-are-identified-and-checked-for-known-vulnerabilities)
+- [MSTG-CODE-6: The app catches and handles possible exceptions.](#mstg-code-6-the-app-catches-and-handles-possible-exceptions)
+- [MSTG-CODE-7: Error handling logic in security controls denies access by default.](#mstg-code-7-error-handling-logic-in-security-controls-denies-access-by-default)
+- [MSTG-CODE-8: In unmanaged code, memory is allocated, freed and used securely.](#mstg-code-8-in-unmanaged-code-memory-is-allocated-freed-and-used-securely)
+- [MSTG-CODE-9: Free security features offered by the toolchain, such as byte-code minification, stack protection, PIE support and automatic reference counting, are activated.](#mstg-code-9-free-security-features-offered-by-the-toolchain-such-as-byte-code-minification-stack-protection-pie-support-and-automatic-reference-counting-are-activated)
+
+## MSTG-CODE-1: The app is signed and provisioned with a valid certificate, of which the private key is properly protected. <a id="mstg-code-1-the-app-is-signed-and-provisioned-with-a-valid-certificate-of-which-the-private-key-is-properly-protected"></a>
+
+## MSTG-CODE-2: The app has been built in release mode, with settings appropriate for a release build (e.g. non-debuggable). <a id="mstg-code-2-the-app-has-been-built-in-release-mode-with-settings-appropriate-for-a-release-build-eg-non-debuggable"></a>
+
+## MSTG-CODE-3: Debugging symbols have been removed from native binaries. <a id="mstg-code-3-debugging-symbols-have-been-removed-from-native-binaries"></a>
+
+## MSTG-CODE-4: Debugging code and developer assistance code (e.g. test code, backdoors, hidden settings) have been removed. The app does not log verbose errors or debugging messages. <a id="mstg-code-4-debugging-code-and-developer-assistance-code-eg-test-code-backdoors-hidden-settings-have-been-removed-the-app-does-not-log-verbose-errors-or-debugging-messages"></a>
+
+## MSTG-CODE-5: All third party components used by the mobile app, such as libraries and frameworks, are identified, and checked for known vulnerabilities. <a id="mstg-code-5-all-third-party-components-used-by-the-mobile-app-such-as-libraries-and-frameworks-are-identified-and-checked-for-known-vulnerabilities"></a>
+
+## MSTG-CODE-6: The app catches and handles possible exceptions. <a id="mstg-code-6-the-app-catches-and-handles-possible-exceptions"></a>
+
+## MSTG-CODE-7: Error handling logic in security controls denies access by default. <a id="mstg-code-7-error-handling-logic-in-security-controls-denies-access-by-default"></a>
+
+## MSTG-CODE-8: In unmanaged code, memory is allocated, freed and used securely. <a id="mstg-code-8-in-unmanaged-code-memory-is-allocated-freed-and-used-securely"></a>
+
+## MSTG-CODE-9: Free security features offered by the toolchain, such as byte-code minification, stack protection, PIE support and automatic reference counting, are activated. <a id="mstg-code-9-free-security-features-offered-by-the-toolchain-such-as-byte-code-minification-stack-protection-pie-support-and-automatic-reference-counting-are-activated"></a>
