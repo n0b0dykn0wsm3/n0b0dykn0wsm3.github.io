@@ -7,55 +7,55 @@ image:  '/images/20.jpg'
 tags:   [Penetration Tester, Red Team, Cheatsheet ]
 ---
 
-# Table of Contents
+# Authentication Testing Test Name
 
-- [WSTG-ATHN-01: Introduction](#wstg-athn-01-introduction)
-- [WSTG-ATHN-02: Architecture Overview](#wstg-athn-02-architecture-overview)
-- [WSTG-ATHN-03: Key Components](#wstg-athn-03-key-components)
-- [WSTG-ATHN-04: Technologies Used](#wstg-athn-04-technologies-used)
-- [WSTG-ATHN-05: Data Flow Diagram](#wstg-athn-05-data-flow-diagram)
-- [WSTG-ATHN-06: Authentication Mechanisms](#wstg-athn-06-authentication-mechanisms)
-- [WSTG-ATHN-07: Authorization Schemes](#wstg-athn-07-authorization-schemes)
-- [WSTG-ATHN-08: Data Validation Mechanisms](#wstg-athn-08-data-validation-mechanisms)
-- [WSTG-ATHN-09: Session Management](#wstg-athn-09-session-management)
-- [WSTG-ATHN-10: Error Handling and Logging](#wstg-athn-10-error-handling-and-logging)
+- [MSTG-ATHN-01: Testing for Credentials Transported over an Encrypted Channel](#mstg-athn-01-testing-for-credentials-transported-over-an-encrypted-channel)
+- [MSTG-ATHN-02: Testing for Default Credentials](#mstg-athn-02-testing-for-default-credentials)
+- [MSTG-ATHN-03: Testing for Weak Lock Out Mechanism](#mstg-athn-03-testing-for-weak-lock-out-mechanism)
+- [MSTG-ATHN-04: Testing for Bypassing Authentication Schema](#mstg-athn-04-testing-for-bypassing-authentication-schema)
+- [MSTG-ATHN-05: Testing for Vulnerable Remember Password](#mstg-athn-05-testing-for-vulnerable-remember-password)
+- [MSTG-ATHN-06: Testing for Browser Cache Weaknesses](#mstg-athn-06-testing-for-browser-cache-weaknesses)
+- [MSTG-ATHN-07: Testing for Weak Password Policy](#mstg-athn-07-testing-for-weak-password-policy)
+- [MSTG-ATHN-08: Testing for Weak Security Question Answer](#mstg-athn-08-testing-for-weak-security-question-answer)
+- [MSTG-ATHN-09: Testing for Weak Password Change or Reset Functionalities](#mstg-athn-09-testing-for-weak-password-change-or-reset-functionalities)
+- [MSTG-ATHN-10: Testing for Weaker Authentication in Alternative Channel](#mstg-athn-10-testing-for-weaker-authentication-in-alternative-channel)
 
-## WSTG-ATHN-01: Introduction <a id="wstg-athn-01-introduction"></a>
+## MSTG-ATHN-01: Testing for Credentials Transported over an Encrypted Channel <a id="mstg-athn-01-testing-for-credentials-transported-over-an-encrypted-channel"></a>
 
-<!-- Your content for WSTG-ATHN-01 goes here -->
+<!-- Your content for MSTG-ATHN-01 goes here -->
 
-## WSTG-ATHN-02: Architecture Overview <a id="wstg-athn-02-architecture-overview"></a>
+## MSTG-ATHN-02: Testing for Default Credentials <a id="mstg-athn-02-testing-for-default-credentials"></a>
 
-<!-- Your content for WSTG-ATHN-02 goes here -->
+<!-- Your content for MSTG-ATHN-02 goes here -->
 
-## WSTG-ATHN-03: Key Components <a id="wstg-athn-03-key-components"></a>
+## MSTG-ATHN-03: Testing for Weak Lock Out Mechanism <a id="mstg-athn-03-testing-for-weak-lock-out-mechanism"></a>
 
-<!-- Your content for WSTG-ATHN-03 goes here -->
+<!-- Your content for MSTG-ATHN-03 goes here -->
 
-## WSTG-ATHN-04: Technologies Used <a id="wstg-athn-04-technologies-used"></a>
+## MSTG-ATHN-04: Testing for Bypassing Authentication Schema <a id="mstg-athn-04-testing-for-bypassing-authentication-schema"></a>
 
-<!-- Your content for WSTG-ATHN-04 goes here -->
+<!-- Your content for MSTG-ATHN-04 goes here -->
 
-## WSTG-ATHN-05: Data Flow Diagram <a id="wstg-athn-05-data-flow-diagram"></a>
+## MSTG-ATHN-05: Testing for Vulnerable Remember Password <a id="mstg-athn-05-testing-for-vulnerable-remember-password"></a>
 
-<!-- Your content for WSTG-ATHN-05 goes here -->
+<!-- Your content for MSTG-ATHN-05 goes here -->
 
-## WSTG-ATHN-06: Authentication Mechanisms <a id="wstg-athn-06-authentication-mechanisms"></a>
+## MSTG-ATHN-06: Testing for Browser Cache Weaknesses <a id="mstg-athn-06-testing-for-browser-cache-weaknesses"></a>
 
-<!-- Your content for WSTG-ATHN-06 goes here -->
+<!-- Your content for MSTG-ATHN-06 goes here -->
 
-## WSTG-ATHN-07: Authorization Schemes <a id="wstg-athn-07-authorization-schemes"></a>
+## MSTG-ATHN-07: Testing for Weak Password Policy <a id="mstg-athn-07-testing-for-weak-password-policy"></a>
 
-<!-- Your content for WSTG-ATHN-07 goes here -->
+<!-- Your content for MSTG-ATHN-07 goes here -->
 
-## WSTG-ATHN-08: Data Validation Mechanisms <a id="wstg-athn-08-data-validation-mechanisms"></a>
+## MSTG-ATHN-08: Testing for Weak Security Question Answer <a id="mstg-athn-08-testing-for-weak-security-question-answer"></a>
 
-<!-- Your content for WSTG-ATHN-08 goes here -->
+<!-- Your content for MSTG-ATHN-08 goes here -->
 
-## WSTG-ATHN-09: Session Management <a id="wstg-athn-09-session-management"></a>
+## MSTG-ATHN-09: Testing for Weak Password Change or Reset Functionalities <a id="mstg-athn-09-testing-for-weak-password-change-or-reset-functionalities"></a>
 
-<!-- Your content for WSTG-ATHN-09 goes here -->
+<!-- Your content for MSTG-ATHN-09 goes here -->
 
-## WSTG-ATHN-10: Error Handling and Logging <a id="wstg-athn-10-error-handling-and-logging"></a>
+## MSTG-ATHN-10: Testing for Weaker Authentication in Alternative Channel <a id="mstg-athn-10-testing-for-weaker-authentication-in-alternative-channel"></a>
 
-<!-- Your content for WSTG-ATHN-10 goes here -->
+<!-- Your content for MSTG-ATHN-10 goes here -->
