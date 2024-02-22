@@ -1,0 +1,36 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-IDNT
+date:   2023-08-02 20:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Identity Management Testing
+
+- [WSTG-IDNT-01: Test Role Definitions](#wstg-idnt-01-test-role-definitions)
+- [WSTG-IDNT-02: Test User Registration Process](#wstg-idnt-02-test-user-registration-process)
+- [WSTG-IDNT-03: Test Account Provisioning Process](#wstg-idnt-03-test-account-provisioning-process)
+- [WSTG-IDNT-04: Testing for Account Enumeration and Guessable User Account](#wstg-idnt-04-testing-for-account-enumeration-and-guessable-user-account)
+- [WSTG-IDNT-05: Testing for Weak or unenforced username policy](#wstg-idnt-05-testing-for-weak-or-unenforced-username-policy)
+
+## WSTG-IDNT-01: Test Role Definitions <a id="wstg-idnt-01-test-role-definitions"></a>
+
+<!-- Your content for WSTG-IDNT-01: Test Role Definitions goes here -->
+
+## WSTG-IDNT-02: Test User Registration Process <a id="wstg-idnt-02-test-user-registration-process"></a>
+
+<!-- Your content for WSTG-IDNT-02: Test User Registration Process goes here -->
+
+## WSTG-IDNT-03: Test Account Provisioning Process <a id="wstg-idnt-03-test-account-provisioning-process"></a>
+
+<!-- Your content for WSTG-IDNT-03: Test Account Provisioning Process goes here -->
+
+## WSTG-IDNT-04: Testing for Account Enumeration and Guessable User Account <a id="wstg-idnt-04-testing-for-account-enumeration-and-guessable-user-account"></a>
+
+<!-- Your content for WSTG-IDNT-04: Testing for Account Enumeration and Guessable User Account goes here -->
+
+## WSTG-IDNT-05: Testing for Weak or unenforced username policy <a id="wstg-idnt-05-testing-for-weak-or-unenforced-username-policy"></a>
+
+<!-- Your content for WSTG-IDNT-05: Testing for Weak or unenforced username policy goes here -->
