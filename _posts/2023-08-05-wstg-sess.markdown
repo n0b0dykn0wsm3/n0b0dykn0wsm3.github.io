@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-SESS
+date:   2023-08-05 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - Session Management Testing
+
+- [WSTG-SESS-01: Testing for Session Management Schema](#wstg-sess-01-testing-for-session-management-schema)
+- [WSTG-SESS-02: Testing for Cookies Attributes](#wstg-sess-02-testing-for-cookies-attributes)
+- [WSTG-SESS-03: Testing for Session Fixation](#wstg-sess-03-testing-for-session-fixation)
+- [WSTG-SESS-04: Testing for Exposed Session Variables](#wstg-sess-04-testing-for-exposed-session-variables)
+- [WSTG-SESS-05: Testing for Cross Site Request Forgery](#wstg-sess-05-testing-for-cross-site-request-forgery)
+- [WSTG-SESS-06: Testing for Logout Functionality](#wstg-sess-06-testing-for-logout-functionality)
+- [WSTG-SESS-07: Testing Session Timeout](#wstg-sess-07-testing-session-timeout)
+- [WSTG-SESS-08: Testing for Session Puzzling](#wstg-sess-08-testing-for-session-puzzling)
+- [WSTG-SESS-09: Testing for Session Hijacking](#wstg-sess-09-testing-for-session-hijacking)
+
+## WSTG-SESS-01: Testing for Session Management Schema <a id="wstg-sess-01-testing-for-session-management-schema"></a>
+
+<!-- Your content for WSTG-SESS-01: Testing for Session Management Schema goes here -->
+
+## WSTG-SESS-02: Testing for Cookies Attributes <a id="wstg-sess-02-testing-for-cookies-attributes"></a>
+
+<!-- Your content for WSTG-SESS-02: Testing for Cookies Attributes goes here -->
+
+## WSTG-SESS-03: Testing for Session Fixation <a id="wstg-sess-03-testing-for-session-fixation"></a>
+
+<!-- Your content for WSTG-SESS-03: Testing for Session Fixation goes here -->
+
+## WSTG-SESS-04: Testing for Exposed Session Variables <a id="wstg-sess-04-testing-for-exposed-session-variables"></a>
+
+<!-- Your content for WSTG-SESS-04: Testing for Exposed Session Variables goes here -->
+
+## WSTG-SESS-05: Testing for Cross Site Request Forgery <a id="wstg-sess-05-testing-for-cross-site-request-forgery"></a>
+
+<!-- Your content for WSTG-SESS-05: Testing for Cross Site Request Forgery goes here -->
+
+## WSTG-SESS-06: Testing for Logout Functionality <a id="wstg-sess-06-testing-for-logout-functionality"></a>
+
+<!-- Your content for WSTG-SESS-06: Testing for Logout Functionality goes here -->
+
+## WSTG-SESS-07: Testing Session Timeout <a id="wstg-sess-07-testing-session-timeout"></a>
+
+<!-- Your content for WSTG-SESS-07: Testing Session Timeout goes here -->
+
+## WSTG-SESS-08: Testing for Session Puzzling <a id="wstg-sess-08-testing-for-session-puzzling"></a>
+
+<!-- Your content for WSTG-SESS-08: Testing for Session Puzzling goes here -->
+
+## WSTG-SESS-09: Testing for Session Hijacking <a id="wstg-sess-09-testing-for-session-hijacking"></a>
+
+<!-- Your content for WSTG-SESS-09: Testing for Session Hijacking goes here -->
