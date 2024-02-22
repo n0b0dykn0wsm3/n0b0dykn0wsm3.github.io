@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Web Security Testing Guide (WSTG)
+description: WSTG-APIT
+date:   2023-08-11 15:01:35 +0700
+image:  '/images/20.jpg'
+tags:   [Penetration Tester, Red Team, Cheatsheet ]
+---
+
+# Table of Contents - API Testing
+
+- [WSTG-APIT-01: Testing GraphQL](#wstg-apit-01-testing-graphql)
+
+## WSTG-APIT-01: Testing GraphQL <a id="wstg-apit-01-testing-graphql"></a>
+
+<!-- Your content for WSTG-APIT-01: Testing GraphQL goes here -->
