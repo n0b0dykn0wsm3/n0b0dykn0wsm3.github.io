@@ -8,35 +8,27 @@ tags:   [Penetration Tester, Red Team, Write Up,  Portswigger ]
 ---
 
 # Table of Contents
-
-## [SQL Injection](#sql-injection)
-
-### [What is SQL Injection?](#what-is-sql-injection)
-
-### [How to Detect SQLi?](#how-to-detect-sqli)
-
-### [How to Prevent SQLi](#how-to-prevent-sqli)
-
-### [Labs](#labs)
-- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](#sql-injection-where-clause)
-- [SQL injection vulnerability allowing login bypass](#sql-injection-login-bypass)
-- [SQL injection attack, querying the database type and version on Oracle](#sql-injection-oracle-type-version)
-- [SQL injection attack, querying the database type and version on MySQL and Microsoft](#sql-injection-mysql-microsoft-type-version)
-- [SQL injection attack, listing the database contents on non-Oracle databases](#sql-injection-non-oracle-listing)
-- [SQL injection attack, listing the database contents on Oracle](#sql-injection-oracle-listing)
-- [SQL injection UNION attack, determining the number of columns returned by the query](#sql-injection-union-columns)
-- [SQL injection UNION attack, finding a column containing text](#sql-injection-union-text-column)
-- [SQL injection UNION attack, retrieving data from other tables](#sql-injection-union-data-retrieval)
-- [SQL injection UNION attack, retrieving multiple values in a single column](#sql-injection-union-multiple-values)
-- [Blind SQL injection with conditional responses](#blind-sql-injection-conditional-responses)
-- [Blind SQL injection with conditional errors](#blind-sql-injection-conditional-errors)
-- [Visible error-based SQL injection](#visible-error-based-sql-injection)
-- [Blind SQL injection with time delays and information retrieval](#blind-sql-injection-time-delays)
-- [Blind SQL injection with out-of-band interaction](#blind-sql-injection-out-of-band)
-- [Blind SQL injection with out-of-band data exfiltration](#blind-sql-injection-data-exfiltration)
-- [SQL injection with filter bypass via XML encoding](#sql-injection-filter-bypass-xml-encoding)
-
----
+- [What is SQL Injection?](#what-is-sql-injection)
+- [How to Detect SQLi?](#how-to-detect-sqli)
+- [How to Prevent SQLi](#how-to-prevent-sqli)
+- [Labs](#labs)
+    - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](#sql-injection-where-clause)
+    - [SQL injection vulnerability allowing login bypass](#sql-injection-login-bypass)
+    - [SQL injection attack, querying the database type and version on Oracle](#sql-injection-oracle-type-version)
+    - [SQL injection attack, querying the database type and version on MySQL and Microsoft](#sql-injection-mysql-microsoft-type-version)
+    - [SQL injection attack, listing the database contents on non-Oracle databases](#sql-injection-non-oracle-listing)
+    - [SQL injection attack, listing the database contents on Oracle](#sql-injection-oracle-listing)
+    - [SQL injection UNION attack, determining the number of columns returned by the query](#sql-injection-union-columns)
+    - [SQL injection UNION attack, finding a column containing text](#sql-injection-union-text-column)
+    - [SQL injection UNION attack, retrieving data from other tables](#sql-injection-union-data-retrieval)
+    - [SQL injection UNION attack, retrieving multiple values in a single column](#sql-injection-union-multiple-values)
+    - [Blind SQL injection with conditional responses](#blind-sql-injection-conditional-responses)
+    - [Blind SQL injection with conditional errors](#blind-sql-injection-conditional-errors)
+    - [Visible error-based SQL injection](#visible-error-based-sql-injection)
+    - [Blind SQL injection with time delays and information retrieval](#blind-sql-injection-time-delays)
+    - [Blind SQL injection with out-of-band interaction](#blind-sql-injection-out-of-band)
+    - [Blind SQL injection with out-of-band data exfiltration](#blind-sql-injection-data-exfiltration)
+    - [SQL injection with filter bypass via XML encoding](#sql-injection-filter-bypass-xml-encoding)
 
 ## What is SQL Injection? <a id="what-is-sql-injection"></a>
 
