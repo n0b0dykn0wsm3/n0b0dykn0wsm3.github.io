@@ -77,10 +77,10 @@ paginate_path: "/page/:num"
 # Pages Path
 defaults:
   - scope:
-      path: '_posts/portswigger'
+      path: '_pages'
     values:
-      permalink: /:year/:month/:title
-
+      permalink: /:basename:output_ext
+      
 include:
   - _pages
 
