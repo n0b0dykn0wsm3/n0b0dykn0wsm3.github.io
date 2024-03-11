@@ -45,3 +45,4 @@ The Web Security Academy is a free online training center for web application se
 * [JWT Attacks](#jwt-attacks)
 * [Prototype Pollution](#prototype-pollution)
 * [Essential Skills](#essential-skills)
+nice
