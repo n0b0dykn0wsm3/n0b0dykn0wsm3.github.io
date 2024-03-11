@@ -38,7 +38,7 @@ In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, 
 [Pentesting Methodology](/2018/04/21/pentest-method/)
 
 <a id="VA"></a>
-[Vulnerability Assessment](-)
+[Vulnerability Assessment]()
 
 
 
@@ -53,7 +53,7 @@ In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, 
 * HTB / HTB Academy
 * Try Hack Me
 
-[Portswigger Academy](-)
+[Portswigger Academy](/2023/09/01/porswigger/)
 
 
 ## Home Labs
