@@ -78,7 +78,7 @@ paginate_path: "/page/:num"
 defaults:
   - scope:
       path: '_pages'
-      path: '_posts/portswigger
+      path: '_posts/portswigger'
     values:
       permalink: /:basename:output_ext
 
