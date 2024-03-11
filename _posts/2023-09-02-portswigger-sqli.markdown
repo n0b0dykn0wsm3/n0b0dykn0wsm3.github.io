@@ -58,7 +58,7 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
 
 <!-- Content for SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -->
 #### Lab Description
-![Alt text](images/portswigger/sqli/lab1-description.png "lab1-description")
+![Alt text](/images/portswigger/sqli/lab1-description.png "lab1-description")
 
 #### Solution
 1. Detect SQL injection (SQLi) vulnerabilities using the single quote character (') to identify errors or anomalies. 
@@ -67,7 +67,7 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
     - URL: web-security-academy.net/filter?category=Pets'+OR+1=1--
 3. In summary, the solution involves first detecting the SQL injection vulnerability using the single quote character and then exploiting it by injecting a true condition to retrieve the hidden data.
 
-![Alt text](images/portswigger/sqli/lab1-solved.png "lab1-solved")
+![Alt text](/images/portswigger/sqli/lab1-solved.png "lab1-solved")
 
 ### SQL injection vulnerability allowing login bypass <a id="sql-injection-login-bypass"></a>
 
