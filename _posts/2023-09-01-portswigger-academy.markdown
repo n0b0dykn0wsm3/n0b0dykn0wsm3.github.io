@@ -11,7 +11,7 @@ The Web Security Academy is a free online training center for web application se
 
 # Portswigger Labs
 ## Server Side Vulnerabilities
-* [SQL Injection](#sql-injection)
+* [SQL Injection](/2023/09/02/portswigger-sqli)
 * [Authentication](#authentication)
 * [Path Traversal](#path-traversal)
 * [Command Injection](#command-injection)
