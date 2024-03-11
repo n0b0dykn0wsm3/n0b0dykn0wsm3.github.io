@@ -79,7 +79,7 @@ defaults:
   - scope:
       path: '_posts/portswigger'
     values:
-      layout: 'post'
+      permalink: /:year/:month/:title
 
 include:
   - _pages
