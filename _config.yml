@@ -83,7 +83,6 @@ defaults:
 
 include:
   - _pages
-  - _pages/portswigger
 
 # Tags
 tag_page_dir: tag
