@@ -81,6 +81,7 @@ defaults:
       path: '_posts/portswigger'
     values:
       permalink: /:basename:output_ext
+      layout: 'post'
 
 include:
   - _pages
