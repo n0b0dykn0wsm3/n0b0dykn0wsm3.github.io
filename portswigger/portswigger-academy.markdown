@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  Portswigger Academy
-description: MSTG-CODE
+description: Portswigger
 date:   2023-09-01 15:01:35 +0700
 image:  '/images/20.jpg'
 tags:   [Penetration Tester, Red Team, Write Up,  Portswigger ]
 ---
 The Web Security Academy is a free online training center for web application security, brought to you by PortSwigger.
-
 
 # Portswigger Labs
 ## Server Side Vulnerabilities
