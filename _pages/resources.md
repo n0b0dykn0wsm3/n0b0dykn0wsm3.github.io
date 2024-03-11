@@ -18,9 +18,6 @@ In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, 
   - [Pentesting Methodology](#pentest-method)
       - OWASP [MSTG](#mstg),[WSTG](#mstg)
   - [Vulneability Assessment](#VA) 
-- [Blue Team](#blue-team)
-  - [Fundamental](#blue-fun)
-  - [Incident Response](#incident-response)
 - [Tools](#tools)
 - [Write Up](#write-up)
 - [Home Labs](#home-labs)
@@ -44,26 +41,20 @@ In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, 
 [Vulnerability Assessment](-)
 
 
-<a id="blue-team"></a>
-## Blue Team
 
-<a id="blue-fun"></a>
-[Fundamental](-)
-
-<a id="incident-response"></a>
-[Incident Response](-)
 
 
 
 ## Tools
-### Red Team Tools
-### Blue Team Tools
 
-
+<a id="write-up"></a>
 ## Write Up
 * Vulnhub
 * HTB / HTB Academy
 * Try Hack Me
-* Portswigger Academy
+
+[Portswigger Academy](-)
+
 
 ## Home Labs
+
