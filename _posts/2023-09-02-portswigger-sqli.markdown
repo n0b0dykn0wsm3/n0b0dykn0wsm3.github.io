@@ -3,9 +3,10 @@ layout: post
 title:  Portswigger Academy - SQL Injection
 description: SQL Injection
 date:   2023-09-02 15:01:35 +0700
-image:  '/images/20.jpg'
+image:  '/images/portswigger/sqli/sqli.png'
 tags:   [Penetration Tester, Red Team, Write Up,  Portswigger ]
 ---
+Source: (Portswigger.net)[https://portswigger.net/web-security/sql-injection]
 
 # Table of Contents
 - [What is SQL Injection?](#what-is-sql-injection)
