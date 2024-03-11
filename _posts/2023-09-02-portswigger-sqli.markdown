@@ -71,7 +71,16 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
 
 ### 2. SQL injection vulnerability allowing login bypass <a id="sql-injection-login-bypass"></a>
 
-<!-- Content for SQL injection vulnerability allowing login bypass -->
+#### Lab Description
+![Alt text](/images/portswigger/sqli/lab2-description.png "lab2-description")
+
+#### Solution
+1. Detect SQL injection (SQLi) vulnerabilities by utilizing the single quote character (') to identify errors or anomalies on the login form.
+    - URL: web-security-academy.net/login
+2. To bypass the login page, add "admininistrator'or+1=1--" in the form. Here, "admininistrator'or1=1--" is a SQL injection payload. The condition "1=1" always evaluates to true, so the SQL query will return results as if the user were an administrator, effectively bypassing the login mechanism.
+3. Test Boolean conditions like OR 1=1 and OR 1=2 to observe response variations, which can indicate potential SQL injection vulnerabilities.
+
+![Alt text](/images/portswigger/sqli/lab2-solved.png "lab2-solved")
 
 ### 3. SQL injection attack, querying the database type and version on Oracle <a id="sql-injection-oracle-type-version"></a>
 
