@@ -53,8 +53,7 @@ In here you can find my cybersecurity resource (Cheatsheet, Methodology, Tools, 
 * HTB / HTB Academy
 * Try Hack Me
 
-[Portswigger Academy](/2023/09/01/portswigger/)
-
+[Portswigger Academy](/portswigger/portswigger-academy)
 
 ## Home Labs
 
