@@ -54,7 +54,7 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
 
 ## Labs <a id="labs"></a>
 
-### SQL injection vulnerability in WHERE clause allowing retrieval of hidden data <a id="sql-injection-where-clause"></a>
+### 1. SQL injection vulnerability in WHERE clause allowing retrieval of hidden data <a id="sql-injection-where-clause"></a>
 
 <!-- Content for SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -->
 #### Lab Description
@@ -69,66 +69,66 @@ SQL injection is a security vulnerability allowing attackers to inject malicious
 
 ![Alt text](/images/portswigger/sqli/lab1-solved.png "lab1-solved")
 
-### SQL injection vulnerability allowing login bypass <a id="sql-injection-login-bypass"></a>
+### 2. SQL injection vulnerability allowing login bypass <a id="sql-injection-login-bypass"></a>
 
 <!-- Content for SQL injection vulnerability allowing login bypass -->
 
-### SQL injection attack, querying the database type and version on Oracle <a id="sql-injection-oracle-type-version"></a>
+### 3. SQL injection attack, querying the database type and version on Oracle <a id="sql-injection-oracle-type-version"></a>
 
 <!-- Content for SQL injection attack, querying the database type and version on Oracle -->
 
-### SQL injection attack, querying the database type and version on MySQL and Microsoft <a id="sql-injection-mysql-microsoft-type-version"></a>
+### 4. SQL injection attack, querying the database type and version on MySQL and Microsoft <a id="sql-injection-mysql-microsoft-type-version"></a>
 
 <!-- Content for SQL injection attack, querying the database type and version on MySQL and Microsoft -->
 
-### SQL injection attack, listing the database contents on non-Oracle databases <a id="sql-injection-non-oracle-listing"></a>
+### 5. SQL injection attack, listing the database contents on non-Oracle databases <a id="sql-injection-non-oracle-listing"></a>
 
 <!-- Content for SQL injection attack, listing the database contents on non-Oracle databases -->
 
-### SQL injection attack, listing the database contents on Oracle <a id="sql-injection-oracle-listing"></a>
+### 6. SQL injection attack, listing the database contents on Oracle <a id="sql-injection-oracle-listing"></a>
 
 <!-- Content for SQL injection attack, listing the database contents on Oracle -->
 
-### SQL injection UNION attack, determining the number of columns returned by the query <a id="sql-injection-union-columns"></a>
+### 7. SQL injection UNION attack, determining the number of columns returned by the query <a id="sql-injection-union-columns"></a>
 
 <!-- Content for SQL injection UNION attack, determining the number of columns returned by the query -->
 
-### SQL injection UNION attack, finding a column containing text <a id="sql-injection-union-text-column"></a>
+### 8. SQL injection UNION attack, finding a column containing text <a id="sql-injection-union-text-column"></a>
 
 <!-- Content for SQL injection UNION attack, finding a column containing text -->
 
-### SQL injection UNION attack, retrieving data from other tables <a id="sql-injection-union-data-retrieval"></a>
+### 9. SQL injection UNION attack, retrieving data from other tables <a id="sql-injection-union-data-retrieval"></a>
 
 <!-- Content for SQL injection UNION attack, retrieving data from other tables -->
 
-### SQL injection UNION attack, retrieving multiple values in a single column <a id="sql-injection-union-multiple-values"></a>
+### 10. SQL injection UNION attack, retrieving multiple values in a single column <a id="sql-injection-union-multiple-values"></a>
 
 <!-- Content for SQL injection UNION attack, retrieving multiple values in a single column -->
 
-### Blind SQL injection with conditional responses <a id="blind-sql-injection-conditional-responses"></a>
+### 11. Blind SQL injection with conditional responses <a id="blind-sql-injection-conditional-responses"></a>
 
 <!-- Content for Blind SQL injection with conditional responses -->
 
-### Blind SQL injection with conditional errors <a id="blind-sql-injection-conditional-errors"></a>
+### 12. Blind SQL injection with conditional errors <a id="blind-sql-injection-conditional-errors"></a>
 
 <!-- Content for Blind SQL injection with conditional errors -->
 
-### Visible error-based SQL injection <a id="visible-error-based-sql-injection"></a>
+### 13. Visible error-based SQL injection <a id="visible-error-based-sql-injection"></a>
 
 <!-- Content for Visible error-based SQL injection -->
 
-### Blind SQL injection with time delays and information retrieval <a id="blind-sql-injection-time-delays"></a>
+### 14. Blind SQL injection with time delays and information retrieval <a id="blind-sql-injection-time-delays"></a>
 
 <!-- Content for Blind SQL injection with time delays and information retrieval -->
 
-### Blind SQL injection with out-of-band interaction <a id="blind-sql-injection-out-of-band"></a>
+### 15. Blind SQL injection with out-of-band interaction <a id="blind-sql-injection-out-of-band"></a>
 
 <!-- Content for Blind SQL injection with out-of-band interaction -->
 
-### Blind SQL injection with out-of-band data exfiltration <a id="blind-sql-injection-data-exfiltration"></a>
+### 16. Blind SQL injection with out-of-band data exfiltration <a id="blind-sql-injection-data-exfiltration"></a>
 
 <!-- Content for Blind SQL injection with out-of-band data exfiltration -->
 
-### SQL injection with filter bypass via XML encoding <a id="sql-injection-filter-bypass-xml-encoding"></a>
+### 17. SQL injection with filter bypass via XML encoding <a id="sql-injection-filter-bypass-xml-encoding"></a>
 
 <!-- Content for SQL injection with filter bypass via XML encoding -->
